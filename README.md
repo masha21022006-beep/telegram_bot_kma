@@ -15,10 +15,10 @@
 Проект имеет простую и наглядную структуру:
 
 telegram_bot_docker/
-├── bot.py # основной файл с кодом Telegram-бота
-├── Dockerfile # инструкция для сборки Docker-образа
-├── requirements.txt # зависимости Python
-└── README.md # описание проекта
+bot.py # основной файл с кодом Telegram-бота
+Dockerfile # инструкция для сборки Docker-образа
+requirements.txt # зависимости Python
+README.md # описание проекта
 
 Архитектура проекта является монолитной и предназначена для учебных целей.
 
